@@ -1,7 +1,7 @@
 # Budget App
 
 ## Demo link:
-Access the [demo](master--tranquil-lamington-5afa34.netlify.app/) here
+Access the [demo](https://tranquil-lamington-5afa34.netlify.app) here
 
 ## Table of Content:
 
